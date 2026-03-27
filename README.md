@@ -74,11 +74,11 @@ Wang, Q.; Song, X.; Chang, C.; Ge, F.; Sato, E.; Tsukada, M.
 
 ---
 
-### 🔹 Automatic Mobile Vehicle for Identifying Chicken Dynamics and Estimating Their Health Status  
-*(Dec. 2020 – Jun. 2022)*  
-- Built a mobile robot for detecting chicken movement and behavior  
-- Applied vision-based analysis to evaluate health conditions  
-- Developed as an undergraduate graduation project
+### 🔹 PLC-Based Automatic Clothes Drying System  
+*(Aug. 2019 – Dec. 2019)*  
+- Developed a control system using PLC and Arduino  
+- Implemented sensor-based automation and actuator control  
+- Solved wiring and communication issues during system integration
 
 ---
 
