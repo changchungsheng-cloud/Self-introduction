@@ -1,12 +1,12 @@
 # My Portfolio
 
 ## 👋 About Me
-- Name: CHUNG-SHENG CHANG
+- Name: CHUNG-SHENG CHANG(張 崇聖)
 - Nationality: Taiwan  
 
 ### 🎓 Education
-- M.S., University of Tsukuba (Intelligent Functional Systems Program)  
-- B.S., Feng Chia University  
+- M.S., University of Tsukuba, Japan (Intelligent and Mechanical Interaction Systems)  
+- B.S., Feng Chia University, Taiwan  
 
 ### 🔬 Laboratory
 - Computer Vision and Image Media Lab. (画像情報研究室)  
