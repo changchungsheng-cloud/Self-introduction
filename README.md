@@ -5,8 +5,8 @@
 - Nationality: Taiwan  
 
 ### 🎓 Education
-- M.S., University of Tsukuba, Japan (Intelligent and Mechanical Interaction Systems)  
-- B.S., Feng Chia University, Taiwan  
+- M.S. in Intelligent and Mechanical Interaction Systems, University of Tsukuba, Japan 
+- B.S. in Department of Automatic Control Engineering, Feng Chia University, Taiwan  
 
 ### 🔬 Laboratory
 - Computer Vision and Image Media Lab. (画像情報研究室)  
