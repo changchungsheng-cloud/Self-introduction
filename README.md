@@ -52,15 +52,25 @@ Wang, Q.; Song, X.; Chang, C.; Ge, F.; Sato, E.; Tsukada, M.
 *(Apr. 2025 – Mar. 2027)*  
 - Current research on poultry health estimation using a multi-camera mobile robot  
 - Designed a perception-action loop for active sensing  
-- Applied behavioral analysis based on visual data  
+- Applied behavioral analysis based on visual data
+- ![demo](chicken.gif)
 
 ---
 
-### 🔹 PLC-Based Automatic Clothes Drying System  
-*(Aug. 2019 – Dec. 2019)*  
-- Developed a control system using PLC and Arduino  
-- Implemented sensor-based automation and actuator control  
-- Solved wiring and communication issues during system integration  
+### 🔹 Real-Time Human Detection Using RGB and Event Cameras  
+- Developed a human detection system using RGB and event cameras  
+- Fused frame-based and event-based data for robust detection  
+- Enabled real-time perception under challenging conditions
+- ![demo](light_event_humanidentify.gif)
+- ![demo](lowlight_event_humanidentify.gif)
+
+---
+
+### 🔹 Automatic Mobile Vehicle for Identifying Chicken Dynamics and Estimating Their Health Status  
+*(Dec. 2020 – Jun. 2022)*  
+- Built a mobile robot for detecting chicken movement and behavior  
+- Applied vision-based analysis to evaluate health conditions  
+- Developed as an undergraduate graduation project
 
 ---
 
